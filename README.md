@@ -22,7 +22,7 @@ docker compose up -d
 Запущено один контейнер web. Hostname не змінюється при оновленні сторінки, оскільки обробка запитів відбувається одним контейнером.
 
 ## Скріншоти:
-![Hostname](images/task1-hostname.png)  
+![Hostname](Знімок%20екрана%202026-06-01%20131815.png) 
 ![docker compose ps](images/task1-ps.png)
 
 ---
